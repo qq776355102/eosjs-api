@@ -1,9 +1,12 @@
 
 # Eos API
 
+
 Application programming interface to EOS blockchain nodes.  This is for
 read-only API calls.  If you need to sign transactions use
 [eosjs](https://github.com/eosio/eosjs) instead.
+
+异步转同步
 
 # Include
 
